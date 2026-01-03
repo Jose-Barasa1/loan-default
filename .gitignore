@@ -1,0 +1,20 @@
+
+# Ignore entire data folder
+data/
+
+# Data files
+*.csv
+*.gz
+*.zip
+*.xlsx
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
